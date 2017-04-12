@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/69f9da1056738d56011b989a16513b08e94d625c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae818138b4f8d5e012974e48535548adda3f9a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/ed3716b1feb3c100b167a7a0c9f3d8b18fc9826f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd7a2b30690398f28056895dda07169d7293ca44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/2bce813cf3edf5f991b83922f447fa1754ea8dde/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_445c3a974a213fa127dec2621dd0596e4785e572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/f18a1a42c08ef1f24e836cf4add516a456a830f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fddfa032ebb0d27e56b97d313bdcb3109509509e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_4f9cfd097bcb6d0094e0097b9fe0b1bca6089849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/bbe2f0911d69414f3c324c9e1ebc9da4de024352/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b200987b35e4c4e3221b5bfd6d9d056aa329a88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/1a60f3c7533c4130d703cb064236ca3a7f44b699/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e4e4c0f9c6bc814c8a3265c6668fb1dda3395c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/d91299644d32aee40d03cb3b78c93b0720b0a5d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82ba5e94bd298c60d6adf1db919adebb15bf011e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/2bce813cf3edf5f991b83922f447fa1754ea8dde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4d3721c2f9acfc96692f57e75b1f4eff76a4168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9684635f3db083e601f7c2c49d19b4ea065368f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30c335ede2fa4394e41b8c0811514ef83ff06d58">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b95ab6fa27b2dd71bf7d11d67332d1aa30b15223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/4f0f3e0326cf8281275e36c5dd81aa958385fb76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/ji94/Documents/Android/CoordinatorBehaviorExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8215ff43c0de1585913f960cbdb84bfb926f3c7a/classes.dex" />
+    </item>
+
+</items>
